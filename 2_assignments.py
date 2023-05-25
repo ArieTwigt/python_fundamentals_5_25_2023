@@ -51,3 +51,4 @@ full_name_new
 nationality = "Norway"
 sentence = f"{full_name_new} - Nationality: {nationality}"
 print(sentence)
+# %%
