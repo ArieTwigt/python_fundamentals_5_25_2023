@@ -5,8 +5,8 @@ from typing import Tuple
 
 def calc_pythagoras(a:float, 
                     b:float, 
-                    rounding=1, 
-                    double=1) -> Tuple[float, float]:
+                    rounding:int=1, 
+                    double:int=1) -> Tuple[float, float]:
     '''
     Function to apply the pythagoras theorem
 
